@@ -1,2 +1,2 @@
 #Repositorio Proyecto POO
-Integrantes: Roger Negrete
+Integrantes: Roger Negrete y Manuel Collago
